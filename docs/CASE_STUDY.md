@@ -1,9 +1,12 @@
-# Case study — ServiceOps field-service management
+# Case study — ServiceOps final group project
 
 - **Project:** ServiceOps
-- **Type:** Collaborative higher-diploma final project
+- **Qualification:** Higher Diploma in Computing & Software Engineering
+- **Module:** Computing Project
+- **Semester:** 4th
+- **Type:** Final group project, completed collaboratively
 - **Stack:** Next.js 16, React 19, TypeScript, ASP.NET Core 10, EF Core, PostgreSQL
-**Status:** Archived academic source snapshot; not an AI Copilot or commissioned enterprise service
+- **Status:** Completed academic group application; archived source snapshot, not a commissioned production service
 
 ## Problem
 
@@ -41,16 +44,15 @@ These checks confirm a reproducible build. They are **not evidence of end-to-end
 
 The images were embedded in the group's submitted academic report and are **historical screenshots**. Exact report page references appear in [SCREENSHOT_EVIDENCE.md](SCREENSHOT_EVIDENCE.md).
 
-## Individual contribution and attribution
+## Group contribution and attribution
 
-**This was a group project.** The repository and provided source alone do not establish which features Kevin Menuja personally implemented. Accordingly, this case study does not attribute specific components exclusively to him. A verified individual-contribution section can be added later using commit history, assigned tasks or group-report evidence confirmed by the original contributors.
+**ServiceOps was our final group project.** The application, documentation and interface evidence represent collaborative diploma coursework. This case study acknowledges collective work and does not assign any particular component exclusively to a single group member.
 
 ## Constraints and honest scope
 
 - The archive is not necessarily the most recent maintained ServiceOps codebase.
 - No deployed production architecture, recovery rehearsal or formal customer acceptance is demonstrated here.
-- Existing code contains **no AI Copilot**, LLM, RAG assistant or autonomous agent functionality.
+- This documentation covers only the completed academic group application, not a commissioned commercial system.
 - Media assets and group work may carry separate reuse and contribution rights that must be respected.
-- A further engineering phase should add integration tests, monitoring, deployment hardening, synthetic-data demos and precise ownership records.
 
-This case study demonstrates collaborative full-stack application architecture and operational-domain modeling without overstating production readiness or individual authorship.
+This case study describes the application architecture and operational-domain modeling completed collaboratively by the diploma project group.

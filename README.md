@@ -1,8 +1,6 @@
-# ServiceOps — Academic Service Management Platform
+# ServiceOps — Higher Diploma Final Group Project
 
-An **academic higher-diploma group final project** exploring end-to-end service management and field operations through a web application. This repository is an archived coursework source snapshot, **not solely authored by one person**.
-
-> **No AI features are claimed here.** The proposed ServiceOps AI Copilot, RAG assistant, LLM agents and production-scale extensions are separate, future engineering work.
+**ServiceOps** was completed as our **final group project** for the **Computing Project** module in the **4th semester** of the **Higher Diploma in Computing & Software Engineering**. Our group developed a role-based web application for service requests, field-service operations, inventory coordination and reporting. This repository documents the work our group completed together.
 
 ## Academic interface gallery
 
@@ -61,6 +59,4 @@ This archive is a group academic application, not a commissioned production depl
 
 ## Attribution
 
-Originally completed as a **collaborative higher-diploma group project**, not an individual solo project. This archive is curated for Kevin Menuja's personal engineering portfolio while preserving the project's group attribution. Other contributors' authorship must be respected, and individual contribution claims should be supported by project evidence.
-
-**Status:** historical academic snapshot; the separately planned ServiceOps AI Copilot is not implemented in these files.
+Completed collaboratively as the **final group project** for the Higher Diploma in Computing & Software Engineering. The repository preserves the submitted group application and its academic attribution; it does not claim that any one person built every component.

@@ -23,4 +23,4 @@ npm audit --omit=dev
 
 The current coursework snapshot uses a pinned shadcn stylesheet resolved from the installed package for Tailwind compilation. Dependencies must be installed before building. Do not put real keys in NEXT_PUBLIC_* variables: those values are exposed to browsers.
 
-**Not a deployed AI Copilot.** This is the historical group's web UI; RAG and AI agents are not included.
+This frontend is part of the **completed ServiceOps final group project** for the **Computing Project** module in the **4th semester** of the **Higher Diploma in Computing & Software Engineering**.

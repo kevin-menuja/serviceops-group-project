@@ -1,6 +1,6 @@
 # Architecture — ServiceOps academic group project
 
-ServiceOps is a role-aware, full-stack service-management application developed as a **higher-diploma group final project**. The source snapshot contains a Next.js web client, ASP.NET Core Web API and PostgreSQL persistence. This document describes the **existing application**, not the future AI Copilot.
+ServiceOps is a role-aware, full-stack service-management application completed as the **final group project** for the **Computing Project** module in the **4th semester** of the **Higher Diploma in Computing & Software Engineering**. The group implemented a Next.js web client, ASP.NET Core Web API and PostgreSQL persistence.
 
 ## Component overview
 
@@ -61,6 +61,6 @@ This is a conceptual source-boundary diagram; individual controller methods may 
 - The frontend presents a server-side API proxy rather than providing database access directly to the browser.
 - Authentication is implemented, but a local build and classroom demo do not establish a public production security assessment.
 - The archive contains demo-data seeders, so public demo deployment needs deliberate data and credential isolation.
-- The source does **not** include AI classification, RAG or autonomous agent workflows. Those belong to a future, separately attributable engineering project.
+- The documented architecture and workflows reflect the completed academic group application.
 
 Related: [Case study](CASE_STUDY.md) · [Screenshot evidence](SCREENSHOT_EVIDENCE.md) · [Dependency notes](DEPENDENCY_NOTES.md).
