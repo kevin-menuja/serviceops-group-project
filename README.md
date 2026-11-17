@@ -4,6 +4,18 @@ An **academic higher-diploma group final project** exploring end-to-end service 
 
 > **No AI features are claimed here.** The proposed ServiceOps AI Copilot, RAG assistant, LLM agents and production-scale extensions are separate, future engineering work.
 
+## Academic interface gallery
+
+| Service manager | Technician |
+| --- | --- |
+| ![Manager dashboard](assets/screenshots/service-manager-dashboard.png) | ![Technician dashboard](assets/screenshots/technician-dashboard.png) |
+
+![Inventory dashboard](assets/screenshots/inventory-dashboard.png)
+
+*Historical screenshots from the submitted group-project report, not a production deployment.*
+
+**Explore:** [Architecture diagram](docs/ARCHITECTURE.md) · [Collaborative project case study](docs/CASE_STUDY.md) · [Screenshot provenance](docs/SCREENSHOT_EVIDENCE.md) · [Dependency audit notes](docs/DEPENDENCY_NOTES.md)
+
 ## Features represented by the source
 
 The backend includes authentication, roles and permissions, administrative controls, service operations, technician workflows, inventory and parts handling, locations, reporting, analytics, file attachments and customer interaction. Project roles include **Administrator, Service Manager, Technician, Inventory Manager and Customer**.
