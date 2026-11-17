@@ -34,19 +34,19 @@ The curated frontend moved to Next.js 16.4.6 and Zod 4.6.7; production dependenc
 
 These checks confirm a reproducible build. They are **not evidence of end-to-end functional acceptance or production operations**.
 
-## Historical user-interface evidence
+## Completed application screenshots
 
-| Service-manager dashboard | Technician dashboard |
+| Operations dashboard | Inventory overview |
 | --- | --- |
-| ![Service manager](../assets/screenshots/service-manager-dashboard.png) | ![Technician](../assets/screenshots/technician-dashboard.png) |
+| ![Operations screen](../frontend/public/previews/operations-light.webp) | ![Inventory screen](../frontend/public/previews/inventory-light.webp) |
 
-![Inventory staff dashboard](../assets/screenshots/inventory-dashboard.png)
+![Customer service history screen](../frontend/public/previews/history-light.webp)
 
-The images were embedded in the group's submitted academic report and are **historical screenshots**. Exact report page references appear in [SCREENSHOT_EVIDENCE.md](SCREENSHOT_EVIDENCE.md).
+These are the existing ServiceOps application preview captures checked into the group's frontend source. They are not claims of a newly tested live deployment. Earlier images from the academic report remain archived for historical evidence; see [SCREENSHOT_EVIDENCE.md](SCREENSHOT_EVIDENCE.md).
 
 ## Group contribution and attribution
 
-**ServiceOps was our final group project.** The application, documentation and interface evidence represent collaborative diploma coursework. This case study acknowledges collective work and does not assign any particular component exclusively to a single group member.
+**ServiceOps was our final group project.** The application, documentation and interface evidence represent collaborative diploma coursework. The five group members and their proposal-defined roles are credited in [TEAM.md](TEAM.md); no particular component is attributed exclusively to one member.
 
 ## Constraints and honest scope
 

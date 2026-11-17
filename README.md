@@ -1,18 +1,38 @@
+<p align="center">
+  <img src="frontend/public/branding/serviceops-logo.png" alt="ServiceOps — Field Service & Maintenance Management" width="280" />
+</p>
+
 # ServiceOps — Higher Diploma Final Group Project
 
 **ServiceOps** was completed as our **final group project** for the **Computing Project** module in the **4th semester** of the **Higher Diploma in Computing & Software Engineering**. Our group developed a role-based web application for service requests, field-service operations, inventory coordination and reporting. This repository documents the work our group completed together.
 
-## Academic interface gallery
+## Actual application screenshots
 
-| Service manager | Technician |
+These screenshots come from the **ServiceOps application preview assets included in this repository**, not the earlier academic interface gallery. They depict the group's completed system using demonstration records.
+
+| Operations dashboard | Inventory overview |
 | --- | --- |
-| ![Manager dashboard](assets/screenshots/service-manager-dashboard.png) | ![Technician dashboard](assets/screenshots/technician-dashboard.png) |
+| ![ServiceOps operations dashboard](frontend/public/previews/operations-light.webp) | ![ServiceOps inventory overview](frontend/public/previews/inventory-light.webp) |
 
-![Inventory dashboard](assets/screenshots/inventory-dashboard.png)
+![ServiceOps customer service history screen](frontend/public/previews/history-light.webp)
 
-*Historical screenshots from the submitted group-project report, not a production deployment.*
+*Source: the checked-in frontend/public/previews application captures. These are existing UI screenshots, not newly verified live deployment captures.*
 
 **Explore:** [Architecture diagram](docs/ARCHITECTURE.md) · [Collaborative project case study](docs/CASE_STUDY.md) · [Screenshot provenance](docs/SCREENSHOT_EVIDENCE.md) · [Dependency audit notes](docs/DEPENDENCY_NOTES.md)
+
+## Project team
+
+ServiceOps was developed collaboratively by **five students**. The responsibilities below come from our submitted project proposal.
+
+| Team member | Assigned role(s) |
+| --- | --- |
+| [Kevin Menuja](https://github.com/kevin-menuja) | Project Manager / Solution Architect / Backend Integration Developer |
+| [Mewanmee Sethnara](https://github.com/mewanmee10) | Business & System Analyst / Service Workflow Developer / Frontend Developer |
+| [Gigiri Perera](https://github.com/gigiriperera123-eng) | Database Engineer / Backend API Developer |
+| [Nethmi Tharaka](https://github.com/NethmiTharaka) | UI/UX Engineer / Frontend Developer |
+| [Maheli Minethma](https://github.com/minethmamaheli) | QA Engineer / Backend Developer |
+
+Read the [team responsibilities and project credit](docs/TEAM.md) for the responsibilities recorded in our proposal. This repository represents our **final group project**, not a solo submission.
 
 ## Features represented by the source
 
@@ -59,4 +79,4 @@ This archive is a group academic application, not a commissioned production depl
 
 ## Attribution
 
-Completed collaboratively as the **final group project** for the Higher Diploma in Computing & Software Engineering. The repository preserves the submitted group application and its academic attribution; it does not claim that any one person built every component.
+Completed collaboratively as the **final group project** for the Higher Diploma in Computing & Software Engineering. The repository preserves our group application and acknowledges all five project members in [TEAM.md](docs/TEAM.md). The proposal-defined responsibilities are credited as group roles, not proof of exclusive ownership of individual code files.
